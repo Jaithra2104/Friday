@@ -1,0 +1,31 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw~
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Friday runtime data
+reminders_data.json
+
+# Sensitive — rename to set real values
+# chira_preferences.json  (keep tracked but never commit real tokens)
+
+# Logs
+*.log
